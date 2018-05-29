@@ -1,0 +1,6 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="false" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="/Users/sohiraakio/myeclipse/java-neon/Eclipse.app/Contents/MacOS/C:\Users\funayama.hikaru\.m2\repository\org\seasar\doma\doma\2.18.0\doma-2.18.0.jar" enabled="false" runInBatchMode="false"/>
+    <factorypathentry kind="PLUGIN" id="net.harawata.mybatipse" enabled="false" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="/Users/sohiraakio/.m2/repository/org/seasar/doma/doma/2.18.0/doma-2.18.0.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
