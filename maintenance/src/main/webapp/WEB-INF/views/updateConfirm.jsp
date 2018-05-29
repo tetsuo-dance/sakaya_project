@@ -17,7 +17,7 @@
 </head>
 
 <body>
-<center><h2>以下の値で更新します。よろしいですか？</h2></center>
+<center><h3>以下の値で更新します。よろしいですか？</h3></center>
   <div id="">
     <table border="1" id="container">
       <tr>
