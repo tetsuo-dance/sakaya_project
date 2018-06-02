@@ -28,6 +28,11 @@ public class ItemUpdateDto {
 	private String itemAlcoholPercentage;
 
 	/**
+	 * 商品画像
+	 */
+	private String itemImage;
+
+	/**
 	 * @return itemCode
 	 */
 	public String getItemCode() {
@@ -100,6 +105,21 @@ public class ItemUpdateDto {
 	 */
 	public void setItemAlcoholPercentage(String itemAlcoholPercentage) {
 		this.itemAlcoholPercentage = itemAlcoholPercentage;
+	}
+
+	/**
+	 * @return itemImage
+	 */
+	public String getItemImage() {
+		return itemImage;
+	}
+
+	/**
+	 * @param itemImage
+	 *            セットする itemImage
+	 */
+	public void setItemImage(String itemImage) {
+		this.itemImage = itemImage;
 	}
 
 }

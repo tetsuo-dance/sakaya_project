@@ -26,6 +26,7 @@
         <th>商品名（カナ）</th>
         <th>単価</th>
         <th>アルコール度数</th>
+        <th>画像</th>
       </tr>
         <tr>
          <form:form modelAttribute="itemConfirmDto" action="${pageContext.request.contextPath}/updateComplete" >
@@ -34,6 +35,7 @@
           <td><form:input name="itemKana" path="itemKana" readonly="true"/></td>
           <td><form:input name="itemPrice" path="itemPrice" readonly="true"/></td>
           <td><form:input name="itemAlcoholPercentage" path="itemAlcoholPercentage" readonly="true"/></td>
+          <td><form:input name="itemImage" path="itemImage" readonly="true" /></td>
           <td><input type="submit" value="登録"></td>
          </form:form>
         <tr>
